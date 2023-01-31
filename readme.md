@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **HIVERIA GAMING SERVERS** project.
 
-- 🌱 I’m currently learning **PHP OOP**
+- 🌱 I’m currently learning **C+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
