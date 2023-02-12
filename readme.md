@@ -2,10 +2,13 @@
 <h3 align="center">I'm just a rookie software developer.</h3>
 <h3 align="center"><b>PocketMine-MP Plugin Developer</b></h3>
 <h3 align="center"><b>Counter-Strike Script Developer</b></h3>
+<br>
 
 - 🔭 I’m currently working on **HIVERIA GAMING SERVERS** project.
 
 - 🌱 I’m currently learning **C+**
+
+<br>
 <h2 align="center">Social Media</h3>
 <p align="center">
 <a href="https://www.twitter.com/androcyber0" target="_blank"><img alt="androcyber0" src="https://i.hizliresim.com/r98d0rb.png" width="44" height="44"></img></a>
