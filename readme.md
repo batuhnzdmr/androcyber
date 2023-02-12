@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan.</h1>
 <h3 align="center">I'm just a rookie software developer.</h3>
-<h3 align="center"><b>PocketMine-MP Plugin Developer</b></h3><br>
-<h3 align="center"><b>Counter-Strike Script Developer</b></h3><br>
+<h3 align="center"><b>PocketMine-MP Plugin Developer</b></h3>
+<h3 align="center"><b>Counter-Strike Script Developer</b></h3>
 
 - 🔭 I’m currently working on **HIVERIA GAMING SERVERS** project.
 
