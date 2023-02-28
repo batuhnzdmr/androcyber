@@ -3,8 +3,10 @@
 <br>
 
 <p align="center">
-<b>PocketMine-MP Plugin Developer</b><br>
-<b>Counter-Strike Script Developer</b>
+  <b>PocketMine-MP Plugin Developer</b><br>
+  <b>Counter-Strike Script Developer</b>
+  <b>Docker Developer</b>
+  <b>Front-end Web Developer</b>
 </p>
 
 <br>
