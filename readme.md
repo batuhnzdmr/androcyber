@@ -10,7 +10,7 @@
 </p>
 <br>
 <h2 align="center">Social Media</h3>
-<p align="evenly">
+<p align="between">
 <a href="https://www.youtube.com/androcyber" target="_blank"><img alt="androcyber" src="https://i.hizliresim.com/ibuzuks.png" width="44" height="44"></img></a>
 <a href="https://www.twitter.com/androcyber0" target="_blank"><img alt="androcyber0" src="https://i.hizliresim.com/r98d0rb.png" width="44" height="44"></img></a>
 <a href="https://www.github.com/androcyber" target="_blank"><img alt="androcyber" src="https://i.hizliresim.com/jxp3m16.png" width="44" height="44"></img></a>
