@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Batuhan.</h1>
+<h1 align="center">Hi 👋, I'm androcyber.</h1>
 <h3 align="center">I'm just a rookie software developer.</h3>
 <br>
-
 <p align="center">
-  <b>PocketMine-MP</b><br>
-  <b>Counter-Strike</b><br>
-  <b>Docker</b><br>
+  PocketMine-MP Plugins<br/>
+  Counter-Strike Scripts<br/>
+  Docker Images<br/>
+  Frontend Website<br/>
+  <code>Development</code>
 </p>
-
 <br>
 <h2 align="center">Social Media</h3>
 <p align="center">
